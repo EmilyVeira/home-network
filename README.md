@@ -5,7 +5,7 @@ A simulated home network bult in Cisco Packet Tracer demonstrating
 NAT, DHCP, DNS, Wi-Fi, and basic routing.
 
 # Topology
-<img width="668" height="720" alt="Full Topology View " src="https://github.com/user-attachments/assets/bdcee05c-9fb6-4b9f-86e6-d02e16f97670" />
+<img width="668" height="720" alt="topology" src="https://github.com/user-attachments/assets/a51d5cda-518d-4d9e-b018-def2e9c7abe1" />
 
 ## Devices Used
 | Device | Model | Role |
