@@ -1,7 +1,7 @@
 # Home Network Simulation - Cisco Packet Tracer
 
 ## Overview
-A simulated home network bult in Cisco Packet Tracer demonstrating 
+A simulated home network built in Cisco Packet Tracer demonstrating 
 NAT, DHCP, DNS, Wi-Fi, and basic routing.
 
 # Topology
